@@ -1,0 +1,35 @@
+{
+  "name": "square-duty-free-website",
+  "version": "1.0.0",
+  "description": "Premium website for Square Duty Free - St. Kitts & Nevis luxury liquor retailer since 2005",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "lint": "eslint script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marora1549/square-duty-free-website.git"
+  },
+  "keywords": [
+    "duty-free",
+    "liquor",
+    "spirits",
+    "st-kitts",
+    "nevis",
+    "caribbean",
+    "retail",
+    "ecommerce"
+  ],
+  "author": "Square Duty Free",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/marora1549/square-duty-free-website/issues"
+  },
+  "homepage": "https://github.com/marora1549/square-duty-free-website#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "live-server": "^1.2.2"
+  }
+}
